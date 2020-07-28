@@ -21,6 +21,7 @@ switch (command) {
     return build({
       source: cli.input[1],
       target: cli.input[2],
+      prebuild: !!cli.flags.prebuild,
     })
   case "serve":
   case "server":
