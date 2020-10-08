@@ -55,6 +55,7 @@
     "esm": "^3.2.25",
     "fs-extra": "^9.0.1",
     "glob": "^7.1.6",
+    "http-proxy-middleware": "^1.0.5",
     "lodash.flatmap": "^4.5.0",
     "lodash.uniqby": "^4.7.0",
     "meow": "^7.1.0",
